@@ -94,7 +94,7 @@
         <mxCell id="usjxSKktLCyju87K4nRt-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="usjxSKktLCyju87K4nRt-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="usjxSKktLCyju87K4nRt-20" value="停留此页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="555" y="400" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
