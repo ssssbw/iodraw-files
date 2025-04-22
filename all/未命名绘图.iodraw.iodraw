@@ -13,7 +13,7 @@
           <mxGeometry x="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="是" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry x="-0.0036" y="20" relative="1" as="geometry">
+          <mxGeometry x="0.4" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="220" y="150" as="sourcePoint" />
             <mxPoint x="220" y="250" as="targetPoint" />
@@ -57,7 +57,7 @@
           <mxGeometry x="180" y="120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="usjxSKktLCyju87K4nRt-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
