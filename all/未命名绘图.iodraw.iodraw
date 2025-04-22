@@ -205,10 +205,13 @@
           <mxGeometry x="930" y="790" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="usjxSKktLCyju87K4nRt-75" value="不做修改" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="970" width="110" height="40" as="geometry" />
+          <mxGeometry x="595" y="980" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="usjxSKktLCyju87K4nRt-76" value="不做修改" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1120" y="702.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="usjxSKktLCyju87K4nRt-79" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="940" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
