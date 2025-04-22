@@ -192,8 +192,11 @@
         <mxCell id="usjxSKktLCyju87K4nRt-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="usjxSKktLCyju87K4nRt-49" target="usjxSKktLCyju87K4nRt-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="usjxSKktLCyju87K4nRt-73" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="usjxSKktLCyju87K4nRt-73" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="785" y="880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="usjxSKktLCyju87K4nRt-74" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="930" y="790" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
