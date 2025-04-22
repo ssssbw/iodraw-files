@@ -97,7 +97,7 @@
           <mxGeometry x="580" y="595" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="usjxSKktLCyju87K4nRt-39" value="传输成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="402.5" y="690" width="140" height="100" as="geometry" />
+          <mxGeometry x="406.25" y="690" width="132.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
