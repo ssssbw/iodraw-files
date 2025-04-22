@@ -186,6 +186,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="usjxSKktLCyju87K4nRt-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="usjxSKktLCyju87K4nRt-66" target="usjxSKktLCyju87K4nRt-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="usjxSKktLCyju87K4nRt-66" value="点击通知" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-70" y="690" width="100" height="70" as="geometry" />
         </mxCell>
@@ -231,8 +234,8 @@
         <mxCell id="usjxSKktLCyju87K4nRt-84" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-70" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="usjxSKktLCyju87K4nRt-85" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="usjxSKktLCyju87K4nRt-85" value="保持原状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-80" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
