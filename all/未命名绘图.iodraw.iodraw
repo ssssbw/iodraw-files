@@ -91,7 +91,7 @@
           <mxGeometry x="421" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="usjxSKktLCyju87K4nRt-35" value="相机电量大于20%" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="422.5" y="570" width="100" height="70" as="geometry" />
+          <mxGeometry x="411.25" y="580" width="122.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
