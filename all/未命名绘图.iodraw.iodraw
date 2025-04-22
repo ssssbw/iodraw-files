@@ -204,7 +204,7 @@
         <mxCell id="usjxSKktLCyju87K4nRt-74" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="930" y="790" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="usjxSKktLCyju87K4nRt-75" value="不做修改" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="usjxSKktLCyju87K4nRt-75" value="保存原状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="595" y="980" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="usjxSKktLCyju87K4nRt-76" value="不做修改" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
