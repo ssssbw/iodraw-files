@@ -15,7 +15,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="是" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry x="0.4" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="482.5" y="270" as="sourcePoint" />
+            <mxPoint x="390" y="260" as="sourcePoint" />
             <mxPoint x="482.5" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -58,6 +58,9 @@
         </mxCell>
         <mxCell id="usjxSKktLCyju87K4nRt-7" value="进入升级界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="422.5" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="usjxSKktLCyju87K4nRt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="usjxSKktLCyju87K4nRt-8" target="usjxSKktLCyju87K4nRt-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="usjxSKktLCyju87K4nRt-8" value="是否为hub" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="70" width="80" height="60" as="geometry" />
