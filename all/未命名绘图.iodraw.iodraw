@@ -102,7 +102,7 @@
         <mxCell id="usjxSKktLCyju87K4nRt-42" value="停留此界面" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="695" width="110" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="usjxSKktLCyju87K4nRt-43" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="usjxSKktLCyju87K4nRt-43" value="停留此界面" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="687.5" width="110" height="75" as="geometry" />
         </mxCell>
       </root>
